@@ -82,11 +82,11 @@ Overall, Patient Pulse represents a significant advancement in Ayurvedic healthc
 
 <table border="0">
   <tr>
-    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/a1.png" height="250" width="500" ></td>
-    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/a2.png" height="250" width="500" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/a1.png" height="250" width="555" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/a2.png" height="250" width="555" ></td>
   </tr>
    <tr>
-    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/a3.png" height="250" width="500" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/a3.png" height="250" width="555" ></td>
   </tr>
    
   </tr>
