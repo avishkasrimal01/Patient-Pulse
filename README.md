@@ -16,7 +16,7 @@
 
 <table border="0">
   <tr>
-    <td><img src="#" height="200" width="200" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/logo.jpg" height="200" width="200" ></td>
     <td><img src="#" height="200" width="200" ></td>
   </tr>
  </table><br>
