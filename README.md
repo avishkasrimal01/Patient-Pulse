@@ -67,23 +67,15 @@ Overall, Patient Pulse represents a significant advancement in Ayurvedic healthc
     
   </tr>
    <tr>
-    <td><img src="#" height="570" width="270" ></td>
-    <td><img src="#" height="570" width="270" ></td>
-  <td><img src="#" height="570" width="270" ></td>
+    
   </tr>
-  <td><img src="#" height="570" width="270" ></td>
-    <td><img src="#" height="570" width="270" ></td>
-  <td><img src="#" height="570" width="270" ></td>
+  
   </tr>
   </tr>
-  <td><img src="#" height="570" width="270" ></td>
-    <td><img src="#" height="570" width="270" ></td>
-  <td><img src="#" height="570" width="270" ></td>
+  
   </tr>
   </tr>
-  <td><img src="#" height="570" width="270" ></td>
-    <td><img src="#" height="570" width="270" ></td>
-  <td><img src="#" height="570" width="270" ></td>
+ 
   </tr>
 </table><br>
 
