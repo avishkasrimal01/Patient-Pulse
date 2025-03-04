@@ -1,7 +1,7 @@
 # Project Name - PatientPulse Smart Medical Clinic Management System
 ## Group NO : 13
 ## Batch - Y2.S2
-### Group Members:
+### Group Members :
 #### - SA23081666 – H.K.A.S. Sanjeewa 
 #### - SA23098732 – A.N.R. de Silva 
 #### - SA23127500 – G.C.N.D. Dayathilaka 
@@ -10,7 +10,7 @@
 
 <br>
 
-### Project Description: 
+### Project Description : 
 
 <table border="0">
   <tr>
