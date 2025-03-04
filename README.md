@@ -16,7 +16,7 @@
   </tr>
  </table><br>
 
-# Project Description:
+<h3> Project Description:</h3><br>
 Patient Pulse is a comprehensive Ayurvedic medical center management system designed to enhance patient care and streamline administrative processes. The system enables efficient management of patient records, appointment scheduling, treatment history, and inventory tracking. It integrates a secure database to store medical records and provides real-time access to doctors and staff through a user-friendly web application. The system also features intelligent recommendations for treatment plans, ensuring personalized care for patients. An admin panel allows seamless monitoring and control of medical center activities. This project aims to improve healthcare accessibility, optimize resource management, and enhance patient satisfaction. The technologies used include React.js, Node.js, mongoDB, Firebase and Arduino.
 
 <br>
