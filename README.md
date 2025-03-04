@@ -59,13 +59,13 @@ Overall, Patient Pulse represents a significant advancement in Ayurvedic healthc
 11.	(Do the same for the Patient-Pulse-Client-Web folder as above.)
 12.	Open the Patient-Pulse-IOT file in Arduino.
 
-## Web Application
+## Client Web Application
 
 <table border="0">
   <tr>
-    <td><img src="#" height="570" width="270" ></td>
-    <td><img src="#" height="570" width="270" ></td>
-  <td><img src="#" height="570" width="270" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c1.png" height="570" width="270" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c2.png" height="570" width="270" ></td>
+  <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c3.png" height="570" width="270" ></td>
   </tr>
    <tr>
     <td><img src="#" height="570" width="270" ></td>
