@@ -1,5 +1,5 @@
 # Project Name - PatientPulse Smart Medical Clinic Management System
-## Group NO : 13
+## Group No : 13
 ## Batch - Y2.S2
 
 ### Group Members 
@@ -17,7 +17,7 @@
 <table border="0">
   <tr>
     <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/logo.jpg" height="200" width="200" ></td>
-    <td><img src="#" height="200" width="200" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/poster.jpg" height="200" width="200" ></td>
   </tr>
  </table><br>
  
