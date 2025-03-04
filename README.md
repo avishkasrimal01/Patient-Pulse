@@ -63,13 +63,14 @@ Overall, Patient Pulse represents a significant advancement in Ayurvedic healthc
 
 <table border="0">
   <tr>
-    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c1.png" height="250" width="565" ></td>
-    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c2.png" height="250" width="565" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c1.png" height="250" width="555" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c2.png" height="250" width="555" ></td>
   </tr>
    <tr>
-    
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c3.png" height="250" width="555" ></td>
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c4.png" height="250" width="555" ></td>
   </tr>
-  
+    <td><img src="https://github.com/avishkasrimal01/PatientPulse-Smart-Medical-Clinic-Management-System/blob/main/images/c5.png" height="250" width="555" ></td>
   </tr>
   </tr>
   
