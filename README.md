@@ -37,6 +37,24 @@ Patient Pulse is a comprehensive Ayurvedic medical center management system desi
   </tr>
 </table><br>
 
+## Prerequisites
+1. VS code should be installed.
+2. node has been installed to the machine.
+
+## Procedure of setting up prerequisites and run the project
+1.	Download a zip folder of this project and unzip or clone the repository.
+2.	Open the project in vs code.
+3.	Open a new terminal.
+4.	Navigate to Patient-Pulse-Admin-Web folder -> cd Patient-Pulse-Admin-Web.
+5.	Navigate to Front folder -> cd Front.
+6.	Type ‘npm install’ and click enter.
+7.	After the node modules getting downloaded, type ‘npm start’ and click enter.
+8.	Navigate to Back -> cd Back.
+9.	Type ‘npm install’ and click enter.
+10.	After the node modules getting downloaded, type ‘npm start’.
+11.	(Do the same for the Patient-Pulse-Client-Web folder as above.)
+12.	Open the Patient-Pulse-IOT file in Arduino.
+
 <h3>Web Application</h3><br>
 
 <table border="0">
@@ -81,7 +99,7 @@ Patient Pulse is a comprehensive Ayurvedic medical center management system desi
 
 <h3>Web Application</h3><br>
 
-Frontend Link : # <br>
-Backend Link : #
+### Admin Web Link : 
+### Client Web Link : https://new-web-pp-front.vercel.app/
 
 
