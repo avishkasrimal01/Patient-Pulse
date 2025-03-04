@@ -2,7 +2,7 @@
 ## Group NO : 13
 ## Batch - Y2.S2
 
-### Group Members :
+### Group Members 
 
 #### - SA23081666 – H.K.A.S. Sanjeewa 
 #### - SA23098732 – A.N.R. de Silva 
@@ -12,7 +12,7 @@
 
 <br>
 
-## Project Description: 
+## Project Description
 
 <table border="0">
   <tr>
@@ -25,7 +25,7 @@ Patient Pulse is a comprehensive Ayurvedic medical center management system desi
 
 <br>
 
-## Technologies:
+## Technologies
 <table border="0">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="60" width="60" ></td>
@@ -55,7 +55,7 @@ Patient Pulse is a comprehensive Ayurvedic medical center management system desi
 11.	(Do the same for the Patient-Pulse-Client-Web folder as above.)
 12.	Open the Patient-Pulse-IOT file in Arduino.
 
-<h3>Web Application</h3><br>
+## Web Application
 
 <table border="0">
   <tr>
@@ -86,7 +86,7 @@ Patient Pulse is a comprehensive Ayurvedic medical center management system desi
 
 <br>
 
-<h3>Arduino System</h3><br>
+## Arduino System
 
 <table border="0">
   <tr>
@@ -97,7 +97,7 @@ Patient Pulse is a comprehensive Ayurvedic medical center management system desi
   </tr>
 </table><br>
 
-<h3>Web Application</h3><br>
+## Web Application
 
 ### Admin Web Link : 
 ### Client Web Link : https://new-web-pp-front.vercel.app/
