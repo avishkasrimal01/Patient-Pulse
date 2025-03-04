@@ -1,0 +1,14 @@
+[
+    {
+        "src": "gallery1.jpg",
+        "alt": "Gallery Image 1"
+    },
+    {
+        "src": "gallery2.jpg",
+        "alt": "Gallery Image 2"
+    },
+    {
+        "src": "gallery3.jpg",
+        "alt": "Gallery Image 3"
+    }
+]

@@ -1,0 +1,94 @@
+
+[
+    {
+        "id": 1,
+        "image": "amma.jpg",
+        "name": "Dr. Sudarshini Roopasingha",
+        "designation" : "Doctor",
+        "bio": "Dr Sudarshini has over 20 years of experience in the industry.",
+        "phone": "+(94) 76 647 4436",
+        "email": "sudarshini@gmail.com"
+    },
+    {
+        "id": 2,
+        "image": "2.jpg",
+        "name": "Mr. Ajith Wasantha Peiris",
+        "designation" : "Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(94) 76 252 5511",
+        "email": "ajithp1968@gmail.com"
+    },
+    {
+        "id": 3,
+        "image": "3.jpg",
+        "name": "Mr. Nimal Perera",
+        "designation" : "Recetionist",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(088) 223 478 365",
+        "email": "nimal@gmail.com"
+    },
+    {
+        "id": 4,
+        "image": "4.jpg",
+        "name": "Hanson Deck",
+        "designation" : "Professor",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(088) 223 478 365",
+        "email": "hanson@echooling.com"
+    },
+    {
+        "id": 5,
+        "image": "5.jpg",
+        "name": "Becky Curry",
+        "designation" : "Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(088) 223 478 365",
+        "email": "becky@echooling.com"
+    },
+    {
+        "id": 6,
+        "image": "6.jpg",
+        "name": "Giles Posture",
+        "designation" : "Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(088) 223 478 365",
+        "email": "giles@echooling.com"
+    },
+    {
+        "id": 7,
+        "image": "7.jpg",
+        "name": "Jackson Pot",
+        "designation" : "Special Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(088) 223 478 365",
+        "email": "jakson@echooling.com"
+    },
+    {
+        "id": 8,
+        "image": "8.jpg",
+        "name": "Jessica Lyphe",
+        "designation" : "Teacher",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(088) 223 478 365",
+        "email": "jessica@echooling.com"
+    },
+    {
+        "id": 9,
+        "image": "amma.jpg",
+        "name": "Dr. Sudarshini Roopasingha",
+        "designation" : "Doctor",
+        "bio": "Dr Sudarshini has over 20 years of experience in the industry.",
+        "phone": "+(94) 76 647 4436",
+        "email": "sudarshini@gmail.com"
+    },
+    {
+        "id": 10,
+        "image": "10.jpg",
+        "name": "Mr. Ajith Wasantha Peiris",
+        "designation" : "Assistant",
+        "bio": "Why I say old chap that is spiffing he legged easy peasy.",
+        "phone": "+(94) 76 252 5511",
+        "email": "ajithp1968@gmail.com"
+    }
+    
+]
